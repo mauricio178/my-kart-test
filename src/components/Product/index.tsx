@@ -1,7 +1,7 @@
 import styles from './styles.module.scss'
 import React from 'react'
 
-export function Header() {
+export function Product() {
     return (
         <div className={styles.container}>
         </div>
