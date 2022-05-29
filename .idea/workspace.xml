@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8152bd-3c13-42cc-82a4-57903fbcd16e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Container/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Container/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Toast/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Toast/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/shipping.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/my-kart/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/my-kart/styles.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Product/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Product/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Product/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Product/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home.module.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/my-kart/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/my-kart/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +53,7 @@
       <recent name="C:\Users\mauri\NextJs\my-folio\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mauri\meu-carrinho-test\src\pages" />
       <recent name="C:\Users\mauri\NextJs\my-folio\public" />
     </key>
   </component>
@@ -92,7 +73,7 @@
       <workItem from="1651500737931" duration="71000" />
       <workItem from="1653578699973" duration="5317000" />
       <workItem from="1653684406272" duration="3257000" />
-      <workItem from="1653753524363" duration="22918000" />
+      <workItem from="1653753524363" duration="23564000" />
     </task>
     <servers />
   </component>
