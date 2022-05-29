@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8152bd-3c13-42cc-82a4-57903fbcd16e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/hooks/postHook.tsx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Toast/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Toast/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/shipping.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/my-kart/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/my-kart/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Product/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Product/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Product/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Product/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +51,26 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mauri/meu-carrinho-test/src/components&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\mauri\\meu-carrinho-test\\node_modules\\typescript\\lib&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mauri/meu-carrinho-test/src/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "C:\\Users\\mauri\\meu-carrinho-test\\node_modules\\typescript\\lib"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mauri\meu-carrinho-test\src\components" />
+      <recent name="C:\Users\mauri\meu-carrinho-test\src" />
+      <recent name="C:\Users\mauri\meu-carrinho-test\src\pages\my-kart" />
       <recent name="C:\Users\mauri\meu-carrinho-test\public" />
       <recent name="C:\Users\mauri\NextJs\my-folio\public" />
-      <recent name="C:\Users\mauri\NextJs\my-folio\src\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mauri\NextJs\my-folio\public" />
@@ -67,7 +92,7 @@
       <workItem from="1651500737931" duration="71000" />
       <workItem from="1653578699973" duration="5317000" />
       <workItem from="1653684406272" duration="3257000" />
-      <workItem from="1653753524363" duration="2583000" />
+      <workItem from="1653753524363" duration="22918000" />
     </task>
     <servers />
   </component>

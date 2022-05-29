@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background: var(--gray-50);
+
+  .header{
+    height: 10%;
+  }
+
+  .list{
+    height: 60%;
+
+    >ul{
+      overflow-y: auto;
+      height: 100%;
+    }
+  }
+
+  .footer{
+    height: 30%;
+  }
+}

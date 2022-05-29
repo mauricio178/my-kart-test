@@ -1,10 +1,20 @@
-import React from 'react'
+import React, { HTMLAttributes } from 'react'
 import styles from './styles.module.scss'
+import {placeholder} from "@babel/types";
 
-export function Button() {
+type ButtonProps = HTMLAttributes<HTMLButtonElement> & {
+    placeholder: string,
+    theme?: 'primary' | 'white' | 'red'
+    loading?: boolean
+}
+
+export function Button({placeholder, ...rest}: ButtonProps) {
     return (
-        <div>
-
-        </div>
+        <button
+            className={styles.container}
+            {...rest}
+        >
+            {placeholder}
+        </button>
     )
 }

@@ -1,0 +1,66 @@
+.container{
+  height: 100%;
+  width: 100%;
+  padding-top: .5rem;
+  border-top: 1px solid var(--gray-50);
+
+  .info{
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 1rem;
+
+    .quantity{
+      font-size: .8rem;
+      display: flex;
+      justify-content: space-between;
+
+      >span{
+        font-size: .8rem;
+        font-weight: bold;
+      }
+    }
+
+    .totals{
+
+      .discount {
+
+        >span{
+          font-weight: bold;
+          color: var(--red-50);
+        }
+      }
+
+
+      >p{
+        font-size: .8rem;
+        padding: 0 .2rem;
+        display: flex;
+        justify-content: space-between;
+
+
+        >span{
+          font-weight: bold;
+          font-size: .8rem;
+        }
+
+
+      }
+    }
+
+    .toast{
+      height: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+    }
+  }
+
+  .button{
+    height: 40%;
+    display: flex;
+    justify-content: flex-end;
+  }
+}
