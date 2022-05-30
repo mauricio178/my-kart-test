@@ -57,11 +57,11 @@
       margin-right: 2rem;
     }
 
-    >p{
+    .oldValue{
       padding: .2rem;
-      color: var(--green);
+      text-decoration: line-through;
+      color: var(--gray-50);
       font-size: .8rem;
-      font-weight: bold;
     }
 
     >span{
@@ -80,7 +80,9 @@
     .discount {
       font-size: .8rem;
       font-weight: bold;
-      color: var(--red-50);
+      color: var(--green);
+      text-decoration: none;
+
     }
   }
 }

@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6c8152bd-3c13-42cc-82a4-57903fbcd16e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home.module.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/my-kart/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/my-kart/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Product/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Product/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Product/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Product/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/global.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mauri/meu-carrinho-test/src/components",
+    "last_opened_file_path": "C:/Users/mauri/meu-carrinho-test",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
@@ -73,7 +73,9 @@
       <workItem from="1651500737931" duration="71000" />
       <workItem from="1653578699973" duration="5317000" />
       <workItem from="1653684406272" duration="3257000" />
-      <workItem from="1653753524363" duration="23564000" />
+      <workItem from="1653753524363" duration="23868000" />
+      <workItem from="1653907215436" duration="1739000" />
+      <workItem from="1653909365362" duration="304000" />
     </task>
     <servers />
   </component>

@@ -16,13 +16,13 @@ export function Product({data}: ProductComponentProps) {
                 <Image src={data.imageUrl} height={100} width={100} alt={data.name}/>
             </div>
             <div className={styles.info}>
-                <h3>{data.name}</h3>
-                <p>{(data.price).toLocaleString('pt-br', {
+                <h3>{data.name} - ({data.quantity} Uni.)</h3>
+                <p className={styles.oldValue}>{(data.price).toLocaleString('pt-br', {
                     style: 'currency',
                     currency: 'BRL'
                 })}</p>
                 <span>-{data.priceTags.value}%</span>
-                <p className={styles.discount}>Valor com desconto: {((data.price) - (data.priceTags.value / 100)).toLocaleString('pt-br', {
+                <p className={styles.discount}>{((data.price) - (data.priceTags.value / 100)).toLocaleString('pt-br', {
                     style: 'currency',
                     currency: 'BRL'
                 })}</p>
